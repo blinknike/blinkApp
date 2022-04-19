@@ -24,6 +24,9 @@
 ?>
 			<script type="text/javascript">
 				alert("wow! Successfully Deleted.");
+				//this is my edited code
+				//this is my edited code from london 
+				//this is my edited code from Ogwash-uku
 				window.location = "index.php";
 			</script>				
 				
