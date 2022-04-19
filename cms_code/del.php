@@ -23,7 +23,7 @@
 						
 ?>
 			<script type="text/javascript">
-				alert("Successfully Deleted.");
+				alert("wow! Successfully Deleted.");
 				window.location = "index.php";
 			</script>				
 				
